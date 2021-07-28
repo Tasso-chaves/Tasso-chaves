@@ -13,7 +13,7 @@
 [Instagram]: https://www.instagram.com/tasso_chaves/
 <br>
 [Linkedin]: https://www.linkedin.com/in/tasso-chaves
-
+<hr>
 
 <h4 align="center">Principais Linguagens 💻</h4>
 
