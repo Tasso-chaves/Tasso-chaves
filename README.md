@@ -1,5 +1,5 @@
 # Tasso Chaves
-### Cursando Engenharia da Computação
+### Engenharia da Computação
 
 ### Tecnologias
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
