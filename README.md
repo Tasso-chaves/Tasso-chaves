@@ -1,7 +1,14 @@
-# Tasso Chaves
-### Engenharia da Computação
+### Soft Skills
+<ul>
+  <li>Autoconfiança</li>
+  <li>Adaptabilidade</li>
+  <li>Empatia</li>
+  <li>Solução de problemas</li>  
+  <li>Trabalho em equipe</li>
+  <li>Pensamento Crítico</li>
+</ul>
 
-### Tecnologias
+### Hard Skills
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
