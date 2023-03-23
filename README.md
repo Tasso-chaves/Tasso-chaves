@@ -1,12 +1,3 @@
-### Soft Skills
-<ul>
-  <li>Autoconfiança</li>
-  <li>Adaptabilidade</li>
-  <li>Empatia</li>
-  <li>Solução de problemas</li>  
-  <li>Trabalho em equipe</li>
-  <li>Pensamento Crítico</li>
-</ul>
 
 ### Hard Skills
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
